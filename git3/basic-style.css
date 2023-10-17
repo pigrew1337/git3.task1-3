@@ -1,0 +1,59 @@
+@font-face {
+    font-family: 'Montserrat';
+    src: url('fonts/Montserrat/static/Montserrat-Black.ttf');
+}
+    
+@font-face {
+    font-family: 'Roboto';
+    src: url("fonts/Roboto/Roboto-Italic.ttf");
+}
+    
+@font-face {
+    font-family: 'Roboto_Mono';
+    src: url("fonts/Roboto_Mono/RobotoMono-Italic-VariableFont_wght.ttf");
+}
+@font-face {
+    font-family: 'San Francisco Mono';
+    src: url("fonts/San Francisco Mono.zip");
+}
+
+.img-logo {
+    height: 50px;
+    width: 50px;
+}
+
+body {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 1.7;
+    margin: 0%;
+    text-align: center;
+}
+
+footer {
+    margin-bottom: 16px;
+    text-align: left;
+    text-align: center;
+}
+
+ol {
+    background-color: #6d757d;
+    line-height: 16px;
+    margin: 0% 0% 16px 0%;
+    font-family:'Roboto_Mono', Tahoma, Geneva, Verdana, serif;
+    font-size: 0.85em;
+    text-align: left;
+}
+
+p {
+    font-family: 'Roboto', Arial, Helvetica, sans-serif, sans-serif;
+}
+
+.pf {
+    text-align: right;
+}
+
+h4 {
+    font-family: monospace;
+    
+}
